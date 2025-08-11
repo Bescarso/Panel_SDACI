@@ -8,8 +8,8 @@
 
 Below are some screenshots and images from the `images` folder illustrating the app interface:
 
-![Image 1](images\browser.png)  
-![Image 2](images\browser2.png)   
+![Image 1](images/browser.png)  
+![Image 2](images/browser2.png)   
 
 ---
 
