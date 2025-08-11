@@ -4,6 +4,18 @@
 
 ---
 
+## 🖼️ Images
+
+Below are some screenshots and images from the `images` folder illustrating the app interface:
+
+![Image 1](images/image1.png)  
+![Image 2](images/image2.png)  
+![Image 3](images/image3.png)  
+
+*(Replace `image1.png`, `image2.png`, etc. with the actual image file names in your `images` folder)*
+
+---
+
 ## ✨ Features
 
 - 🔍 **Search devices** by address (`address_device`)

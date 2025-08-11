@@ -1,8 +1,6 @@
 import flet as ft
 
 from browser import browser_page
-x=2
-
 
 def main(page: ft.Page):
     page.theme_mode = ft.ThemeMode.LIGHT
